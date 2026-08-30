@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+images/_crops/
+images/_try_*.jpg
+
+# 원본 저장본 · 블로그 덤프 (사이트에는 images 사본만 씀)
+*.htm
+*_files/
+거실.jpg
+평면도.jpg
