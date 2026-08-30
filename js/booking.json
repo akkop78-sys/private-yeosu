@@ -1,0 +1,30 @@
+{
+  "price4": 0,
+  "extraPerson": 0,
+  "petFee": 35000,
+  "rates": {
+    "2026-08-02": {
+      "price4": 200000,
+      "extraPerson": 30000
+    },
+    "2026-08-03": {
+      "price4": 200000,
+      "extraPerson": 30000
+    },
+    "2026-08-04": {
+      "price4": 200000,
+      "extraPerson": 30000
+    },
+    "2026-08-05": {
+      "price4": 200000,
+      "extraPerson": 30000
+    },
+    "2026-08-06": {
+      "price4": 200000,
+      "extraPerson": 30000
+    }
+  },
+  "booked": [],
+  "blocked": [],
+  "updatedAt": "2026-08-30T15:05:51.153Z"
+}
