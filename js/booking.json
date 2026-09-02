@@ -3,6 +3,26 @@
   "extraPerson": 0,
   "petFee": 35000,
   "weekdayRates": {
+    "0": {
+      "price4": 200000,
+      "extraPerson": 25000
+    },
+    "1": {
+      "price4": 200000,
+      "extraPerson": 25000
+    },
+    "2": {
+      "price4": 200000,
+      "extraPerson": 25000
+    },
+    "3": {
+      "price4": 200000,
+      "extraPerson": 25000
+    },
+    "4": {
+      "price4": 200000,
+      "extraPerson": 25000
+    },
     "5": {
       "price4": 250000,
       "extraPerson": 35000
@@ -620,5 +640,5 @@
   },
   "booked": [],
   "blocked": [],
-  "updatedAt": "2026-09-02T04:33:39.962Z"
+  "updatedAt": "2026-09-02T04:34:20.128Z"
 }
